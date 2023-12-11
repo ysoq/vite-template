@@ -4,7 +4,7 @@ import { createPinia } from 'pinia';
 import App from './App.vue';
 import router from './router';
 
-import 'virtual:uno.css';
+import 'uno.css';
 
 // 2. 引入组件样式
 
